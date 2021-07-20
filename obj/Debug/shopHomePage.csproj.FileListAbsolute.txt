@@ -1,0 +1,10 @@
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\shopHomePage\bin\Debug\shopHomePage.exe.config
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\shopHomePage\bin\Debug\shopHomePage.exe
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\shopHomePage\bin\Debug\shopHomePage.pdb
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\shopHomePage\obj\Debug\shopHomePage.csprojAssemblyReference.cache
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\shopHomePage\obj\Debug\shopHomePage.Properties.Resources.resources
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\shopHomePage\obj\Debug\shopHomePage.csproj.GenerateResource.cache
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\shopHomePage\obj\Debug\shopHomePage.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\shopHomePage\obj\Debug\shopHomePage.exe
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\shopHomePage\obj\Debug\shopHomePage.pdb
+C:\Users\Programmer\Shiko\Shiko Files\Career\C#\shopHomePage\obj\Debug\shopHomePage.HomePage.resources
